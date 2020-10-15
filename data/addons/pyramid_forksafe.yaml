@@ -1,0 +1,14 @@
+addon: true
+category:
+- configuration
+demoUrl: ''
+description: Standardizes applicable hooks on forking and multiprocessing
+  servers into Pyramid events to streamline deployment.
+docsUrl: ''
+maintainers:
+- jvanasco
+name: pyramid_forksafe
+projectUrl: ''
+pypiUrl: https://pypi.org/project/pyramid_forksafe
+support: community
+vcsUrl: https://github.com/jvanasco/pyramid_forksafe

@@ -1,0 +1,15 @@
+addon: true
+category:
+- authorization
+demoUrl: ''
+description: A lowlevel integration library for creating oAuth clients and
+  servers in Pyramid applications. The test suite contains fully functional
+  oAuth1 and oAuth2 reference implementations.
+docsUrl: ''
+maintainers:
+- jvanasco
+name: pyramid_oauthlib_lowlevel
+projectUrl: ''
+pypiUrl: https://pypi.org/project/pyramid_oauthlib_lowlevel
+support: community
+vcsUrl: https://github.com/jvanasco/pyramid_oauthlib_lowlevel

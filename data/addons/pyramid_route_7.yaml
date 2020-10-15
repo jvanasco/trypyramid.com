@@ -1,0 +1,13 @@
+addon: true
+category:
+- routes
+demoUrl: ''
+description: Upgrade route declarations with a microtemplating language.
+docsUrl: ''
+maintainers:
+- jvanasco
+name: pyramid_route_7
+projectUrl: https://github.com/jvanasco/pyramid_route_7
+pypiUrl: https://pypi.org/project/pyramid_route_7
+support: community
+vcsUrl: https://github.com/jvanasco/pyramid_route_7
